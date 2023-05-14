@@ -1,0 +1,7 @@
+com/venkatagollapudi/inventoryservice/dto/InventoryResponse$InventoryResponseBuilder.class
+com/venkatagollapudi/inventoryservice/model/Inventory.class
+com/venkatagollapudi/inventoryservice/repository/InventoryRepository.class
+com/venkatagollapudi/inventoryservice/service/InventoryService.class
+com/venkatagollapudi/inventoryservice/dto/InventoryResponse.class
+com/venkatagollapudi/inventoryservice/controller/InventoryController.class
+com/venkatagollapudi/inventoryservice/InventoryServiceApplication.class

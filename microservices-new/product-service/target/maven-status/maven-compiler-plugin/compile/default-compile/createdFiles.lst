@@ -1,0 +1,10 @@
+com/venkatagollapudi/productservice/repository/ProductRepository.class
+com/venkatagollapudi/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/venkatagollapudi/productservice/model/Product.class
+com/venkatagollapudi/productservice/controller/ProductController.class
+com/venkatagollapudi/productservice/ProductServiceApplication.class
+com/venkatagollapudi/productservice/dto/ProductResponse.class
+com/venkatagollapudi/productservice/service/ProductService.class
+com/venkatagollapudi/productservice/dto/ProductRequest.class
+com/venkatagollapudi/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/venkatagollapudi/productservice/model/Product$ProductBuilder.class

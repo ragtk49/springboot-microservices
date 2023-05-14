@@ -1,0 +1,12 @@
+com/venkatagollapudi/orderservice/model/OrderLineItems.class
+com/venkatagollapudi/orderservice/dto/OrderRequest.class
+com/venkatagollapudi/orderservice/repository/OrderRepository.class
+com/venkatagollapudi/orderservice/service/OrderService.class
+com/venkatagollapudi/orderservice/event/OrderPlacedEvent.class
+com/venkatagollapudi/orderservice/OrderServiceApplication.class
+com/venkatagollapudi/orderservice/dto/OrderLineItemsDto.class
+com/venkatagollapudi/orderservice/dto/InventoryResponse.class
+com/venkatagollapudi/orderservice/dto/InventoryResponse$InventoryResponseBuilder.class
+com/venkatagollapudi/orderservice/config/WebClientConfig.class
+com/venkatagollapudi/orderservice/model/Order.class
+com/venkatagollapudi/orderservice/controller/OrderController.class
